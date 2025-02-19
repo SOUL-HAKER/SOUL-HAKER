@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SOUL-HAKER
+- 👋 Hi, I’m @TOXIC-KID
 - 👀 I’m interested in coding and ethical hacking
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python,C
 - 💞️ I’m looking to collaborate am always free 😜
 - 📫 How to reach me 😌
 
